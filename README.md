@@ -2,7 +2,7 @@
 
 ## Introduction:
 
-My name is Brandon. I am a University of Waterloo graduate (BA Economics, Finance Specialization). My professional experience exposed me to investment management in different domains within the financial services industry. 
+My name is *Brandon*. I am a **University of Waterloo** graduate (*BA Economics, Finance Specialization*). My professional experience exposed me to investment management in different domains within the financial services industry. If you would like to learn more about my background, you can check out my [LinkedIn](https://www.linkedin.com/in/brandonhubah/).
 
 My goal is to develop my technical skills in data analytics and puruse a career in FinTech. Some job titles that I am interested in include Business Analyst and Quantitative Researcher.
 
