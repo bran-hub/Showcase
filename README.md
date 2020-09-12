@@ -1,6 +1,6 @@
 # Showcase
 
-Introduction:
+## Introduction:
 
 My name is Brandon. I am a University of Waterloo graduate (BA Economics, Finance). My professional experience exposed me to investment management in different domains within the financial services industry. 
 
